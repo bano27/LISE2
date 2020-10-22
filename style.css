@@ -1,0 +1,93 @@
+#navbar{background-color: #5d4954;
+color: white;}
+.red{color: red;}
+.blue{color: blue;}
+.heads{height: 370px;}
+h1{letter-spacing: 5px;
+font-size: 75px;
+font-family: cursive;}
+textarea{width: 650px;}
+.card{height: 70px;}
+.card-img-top{height: 250px;
+width: 300px;}
+.pl p{font-size: 22px;}
+#social{align-items: center;
+justify-content: center;
+text-align: center;
+display: block;}
+#lfooter{background-color: #5d4954}
+#subscribe-btn {
+    background-color: #ff0000;
+    border: 1px solid #ffffff;
+    color: #000000;
+}
+h3{font-size: 24px;}
+.section1{background-image: url(Images/bg4.jpg);
+color: white;
+background-repeat: no-repeat;
+background-size: 100%;
+background-position: center;
+height: 1100px;}
+#platform p{font-size: 25px;}
+h4{font-size: 30px;}
+#body1{background-color: #ffff00;}
+h2{text-align: center;
+font-size: 40px;}
+.card-title{color: black;}
+#imgheight{height: 500px;}
+.section2{
+           background-color: lightblue;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+
+  .card button:hover {
+    opacity: 0.7;
+  }
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+.pricing-p {
+             text-align: center;
+}
+#submit {
+          padding: 10px;
+          margin: 20px;
+          width: 30%;
+}
+.submit {
+           text-align: center;
+}
+#container-fluid {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-left: 9%;
+  padding-right: 9%;
+}
